@@ -1,0 +1,15 @@
+pytest
+pytest-mock
+black
+flake8
+mypy
+types-requests
+isort
+dagster==0.14.20
+dagster-postgres==0.14.20
+dagster-docker==0.14.20
+requests==2.25.1
+psycopg2-binary==2.9.3
+boto3==1.23.10
+dagster-dbt==0.14.20
+dbt==0.21.1
